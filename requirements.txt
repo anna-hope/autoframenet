@@ -1,0 +1,7 @@
+tqdm
+keras
+nltk
+numpy
+spacy
+sklearn
+h5py
